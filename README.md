@@ -1,5 +1,4 @@
 # Summer-school-test
 Repository test
 
-Test: make change to someone else's repo
-Hello world
+Test: TINA'S TEST CHANGE FOR CONFLICT
